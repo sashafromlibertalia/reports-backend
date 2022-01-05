@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/sasha/.dotnet/store/|arch|/|tfm|",
-      "/Users/sasha/.nuget/packages"
-    ]
-  }
-}
