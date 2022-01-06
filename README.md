@@ -5,3 +5,7 @@
 
 ## Description
 The description of this lab can be found [here](DESCRIPTION.pdf)
+
+## Stack
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
