@@ -4,7 +4,7 @@
 > This project has a frontend [repo](https://github.com/sashafromlibertalia/reports-frontend)
 
 ## Description
-The description of this lab can be found [here](DESCRIPTION.pdf)
+The description of this lab can be found [here](DESCRIPTION.md)
 
 ## Stack
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
